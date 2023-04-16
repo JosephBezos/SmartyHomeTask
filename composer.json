@@ -1,0 +1,20 @@
+{
+    "name": "josephbezos/tilted",
+    "description": "Norm bebra",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Josephbezos\\Tilted\\": "Josephbezos/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Andrii Orlov",
+            "email": "andrii.orlov233@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "smarty/smarty": "^4.3"
+    }
+}
